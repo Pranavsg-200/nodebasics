@@ -1,0 +1,22 @@
+{
+  "name": "nodebasic",
+  "version": "1.0.0",
+  "description": "node basic tutorial ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pranavsg-200/nodebasics.git"
+  },
+  "author": "Pranav G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pranavsg-200/nodebasics/issues"
+  },
+  "homepage": "https://github.com/Pranavsg-200/nodebasics#readme",
+  "dependencies": {
+    "superheroes": "^3.0.0"
+  }
+}
